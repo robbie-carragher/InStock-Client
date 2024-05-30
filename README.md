@@ -30,7 +30,9 @@ Currently, two official plugins are available:
     <li>Aisha Atta</li>
   </ul>
  
-  
+  <h2>Start Client</h2>
+
+  <p>npm run dev</p>
   
   
 <h3> 📷 Preview </h3>
@@ -39,7 +41,9 @@ Currently, two official plugins are available:
 <img src="https://i.ibb.co/Gcb29HP/Clean-Shot-2024-01-16-at-13-11-47-2x.png" alt="Clean-Shot-2024-01-16-at-13-11-47-2x" border="0"></a><br />
 <img src="https://s13.gifyu.com/images/S0cYn.gif" alt="CleanShot 2024 01 16 at 13.12.22" border="0" />
 
+ <h2>Start Server</h2>
 
+  <p>npm start</p>
 
   <a href="https://github.com/robbie-carragher/InStock-Server">
     Backend Github Source
