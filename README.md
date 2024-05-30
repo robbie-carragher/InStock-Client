@@ -33,6 +33,8 @@ Currently, two official plugins are available:
   <h2>Start Client</h2>
 
   <p>npm run dev</p>
+
+    <a href="https://github.com/robbie-carragher/InStock-Client">
   
   
 <h3> 📷 Preview </h3>
