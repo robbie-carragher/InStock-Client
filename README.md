@@ -34,7 +34,10 @@ Currently, two official plugins are available:
 
   <p>npm run dev</p>
 
-    <a href="https://github.com/robbie-carragher/InStock-Client">
+   <a href="[https://github.com/robbie-carragher/InStock-Server](https://github.com/robbie-carragher/InStock-Client)">
+    Frontend Github Source
+  </a>
+   
   
   
 <h3> 📷 Preview </h3>
