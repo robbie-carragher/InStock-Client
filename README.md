@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 
 <div align=center>
 
-
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Hello World!&fontAlignY=45&fontSize=40&height=120&animation=blinking&desc=My name is Robbie :)&descAlignY=70" />
 <h3> 👋 Introduction </h3>
 <hr/>
   <p>I am an experienced Web Site Developer based in Nelson, BC, Canada. I love combining the worlds of logic and creative websites to make eye-catching, accessible, and user-friendly web and applications. My interest in development started in 2017 when I studied Full Stack Web Development and then Software Engineering. I have a serious passion for coding and dynamic user experience. </p>
