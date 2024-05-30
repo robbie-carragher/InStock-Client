@@ -39,11 +39,9 @@ Currently, two official plugins are available:
 <img src="https://i.ibb.co/Gcb29HP/Clean-Shot-2024-01-16-at-13-11-47-2x.png" alt="Clean-Shot-2024-01-16-at-13-11-47-2x" border="0"></a><br />
 <img src="https://s13.gifyu.com/images/S0cYn.gif" alt="CleanShot 2024 01 16 at 13.12.22" border="0" />
 
-<h3> 🔗 Web Link </h3>
-<hr/>
-  <a href="https://instock-site.netlify.app/"><p>Click ✔️ </a> : instock-site.netlify.app/</p>
 
-  <a href="https://github.com/Kimmyyoung/inStock-server">
+
+  <a href="https://github.com/robbie-carragher/InStock-Server">
     Backend Github Source
   </a>
 
