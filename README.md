@@ -11,15 +11,17 @@ Currently, two official plugins are available:
 
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Hello World!&fontAlignY=45&fontSize=40&height=120&animation=blinking&desc=My name is Robbie :)&descAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Hello%20World!&fontAlignY=45&fontSize=40&height=120&animation=blinking&desc=My%20name%20is%20Robbie%20:)&descAlignY=70" />
+
 <h3> 👋 Introduction </h3>
 <hr/>
-  <p>I am an experienced Web Site Developer based in Nelson, BC, Canada. I love combining the worlds of logic and creative websites to make eye-catching, accessible, and user-friendly web and applications. My interest in development started in 2017 when I studied Full Stack Web Development and then Software Engineering. I have a serious passion for coding and dynamic user experience. </p>
+  <p>I am an experienced Web Site Developer based in Nelson, BC, Canada. I love combining the worlds of logic and creative websites to make eye-catching, accessible, and user-friendly web and applications. My interest in development started in 2013 and 2017 when I studied full-stack web development at Selkirk College and continued my education by attending the software engineering BootCamp at BrainStation. I have a serious passion for coding and dynamic user experience. </p>
 
 
   <h3> ❤️ InStock - Warehouse & Inventory Management System </h3>
   <hr/>
 
+ 
   <h6>Team Member</h6>
   <ul>
     <li>Kimmyyoung</li>
@@ -28,7 +30,8 @@ Currently, two official plugins are available:
     <li>Aisha Atta</li>
   </ul>
  
-   
+  
+  
   
 <h3> 📷 Preview </h3>
 <hr/>
@@ -38,9 +41,9 @@ Currently, two official plugins are available:
 
 <h3> 🔗 Web Link </h3>
 <hr/>
-<!--   <a href="https://instock-site.netlify.app/"><p>Click ✔️ </a> : instock-site.netlify.app/</p> -->
+  <a href="https://instock-site.netlify.app/"><p>Click ✔️ </a> : instock-site.netlify.app/</p>
 
-  <a href="">
+  <a href="https://github.com/Kimmyyoung/inStock-server">
     Backend Github Source
   </a>
 
