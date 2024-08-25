@@ -15,7 +15,7 @@ Currently, two official plugins are available:
 
 <h3> 👋 Introduction </h3>
 <hr/>
-  <p>I am an experienced Web Site Developer based in Nelson, BC, Canada. I love combining the worlds of logic and creative websites to make eye-catching, accessible, and user-friendly web and applications. My interest in development started in 2013 and 2017 when I studied full-stack web development at Selkirk College and continued my education by attending the software engineering BootCamp at BrainStation. I have a serious passion for coding and dynamic user experience. </p>
+  <p>I am an experienced Web Site Developer based in Nelson, BC, Canada. I love combining the worlds of logic and creative websites to make eye-catching, accessible, and user-friendly web and applications. My interest in development started in 2019 and in 2019 when I studied full-stack web development at Selkirk College and continued my education by attending software engineering at BrainStation. I have a serious passion for coding and dynamic user experience. </p>
 
 
   <h3> ❤️ InStock - Warehouse & Inventory Management System </h3>
@@ -24,9 +24,9 @@ Currently, two official plugins are available:
  
   <h6>Team Member</h6>
   <ul>
+    <li>robbie-carragher</li>
     <li>Kimmyyoung</li>
     <li>ReidGibson-Bingham</li>
-    <li>robbie-carragher</li>
     <li>Aisha Atta</li>
   </ul>
  
